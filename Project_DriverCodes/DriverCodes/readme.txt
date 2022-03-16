@@ -1,0 +1,2 @@
+- Include the DriverCodes in your DSCoinPackage directory to compile/execute. To compile, run "javac DSCoinPackage/*.java HelperClasses/*.java". To execute the DriverCode for question x, run "java DSCoinPackage.DriverCode_x". 
+- Each DriverCode outputs the final score for the corresponding question. There are two DriverCodes for Q6. We ran both the DriverCodes, and included the max of the two scores. 
